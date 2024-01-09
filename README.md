@@ -1,5 +1,5 @@
 # Priyanshi Patil
-## 🚀 About Me
+## 👩‍💻🪐🌐 About Me
 I'm a 2nd year student pursuing my degree in Btech. Computer Science with Artificial Intelligence.
 Artificial Intelligence is like a whole new world of possibilities and it's mind-blowing how it is shaping our future!! It's like magic meet technology and i can't get enough of it.
  ## 🔗 Links
