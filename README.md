@@ -1,8 +1,7 @@
 # Priyanshi Patil
 ## 🪐 About Me
-I'm a 3rd year student pursuing my degree in Btech. Computer Science with Artificial Intelligence.
-Artificial Intelligence is like a whole new world of possibilities and it's mind-blowing how it is shaping our future!! It's like magic meet technology and i can't get enough of it.
+As a Computer Science student focusing on Artificial Intelligence 🤖, I am an imaginative thinker and problem solver dedicated to exploring the convergence of AI, Technology, and Digital Content 🚀. I enrich my knowledge by examining the latest developments in AI tools, Machine Learning, and Natural Language Processing 📚, while staying updated on emerging technologies and industry trends through insightful articles 🔍. Outside of my technical endeavors, I enjoy photography 📷 and content writing 📝, harmoniously blending creativity with analytical thought.
  ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-patil-194a472a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnDOnW%2F%2BlTt2bfaJddMrZBA%3D%3D)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/priyanshi-patil-194a472a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnDOnW%2F%2BlTt2bfaJddMrZBA%3D%3D](https://www.linkedin.com/in/priyanshi-patil-18a08u4g/))
 ## 🛠 Skills
-Python | Machine Learning | C++ | HTML | Artificial Intelligence | Natural Language Processing | Tableau | API | 
+Python | Machine Learning | Power BI | HTML | Artificial Intelligence | Natural Language Processing | Tableau | API | Data Processing | Data Visualization 
